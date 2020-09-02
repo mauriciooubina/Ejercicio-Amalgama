@@ -1,3 +1,9 @@
+package test;
+
+import main.Arquero;
+import main.Caballero;
+import main.Ejercito;
+import main.Piquero;
 import org.junit.Assert;
 import org.junit.Test;
 
